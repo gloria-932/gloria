@@ -1,0 +1,130 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-size: 20px;
+    color: white;
+    list-style: none;
+    text-decoration: none;
+    font-family: sans-serif;
+    outline: none;
+    border: none;
+}
+body{
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    display: block;
+    background-color: green;
+    overflow-y: auto;
+}
+.matrix{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    overflow-y: auto;
+    display: block;
+}
+header{
+    position: relative;
+    display: inline-flex;
+    width: 90%;
+    height: 50px;
+    background-color: black;
+    margin-left: 5%;
+    margin-top: 2%;
+    border-radius: 8px;
+}
+.CyptoTradin{
+    margin: auto;
+    background: transparent;
+}
+.slash{
+    position: relative;
+    width: 90%;
+    height: 40%;
+    margin-left: 5%;
+    background-color: pink;
+    margin-top: 2%;
+    border-radius: 8px;
+    display: inline-flex;
+}
+.omega{
+    position: relative;
+    width: 40%;
+    height: 90%;
+    background-color: purple;
+    margin-top: 2%;
+    margin-left: 2%;
+    border-radius: 8%;
+}
+.adam{
+    position: relative;
+    width: 55%;
+    height: 90%;
+    background-color: transparent;
+    margin-left: 2%;
+    margin-top: 2%;
+    border-radius: 6%;
+}
+.buynow{
+    position: absolute;
+    background-color: blue;
+    bottom: 5%;
+    right: 5%;
+    padding: 2%;
+    border: none;
+    outline: none;
+    border-radius: 10%;
+}
+.mm{
+    text-align: center;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    font-weight: 100px;
+}
+.adana{
+    padding: 1%;
+    word-wrap: break-word;
+}
+.cedra{
+    width: 90%;
+    position: relative;
+    height: 30%;
+    background-color: aqua;
+    border-radius: 8px;
+    margin-top: 2%;
+    margin-left: 5%;
+    margin-bottom: 5%;
+    overflow: hidden;
+    overflow-x: auto;
+    display: inline-flex;
+}
+.max{
+    position: relative;
+    background-color: brown;
+    height: 90%;
+    width: 30%;
+    margin: auto;
+    margin-left: 2%;
+    margin-right: 2%;
+    flex-shrink: 0;
+    border-radius: 10px;
+}
+footer{
+    position: relative;
+    display: inline-flex;
+    width: 90%;
+    height: 50px;
+    background-color: black;
+    margin-left: 5%;
+    margin-top: 2%;
+    border-radius: 8px;
+}
+#hey{
+    position: relative;
+    width: 100%;
+    height: 100%;
+    
+}
